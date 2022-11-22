@@ -6,7 +6,9 @@ Here's a list of the most popular text editors that support Fortran syntax, in a
 
 - [Atom](https://atom.io/)
 - [Emacs](https://www.gnu.org/software/emacs/)
+- [Micro](https://micro-editor.github.io/)
 - [NotePad++](https://notepad-plus-plus.org/)
+- [NotePad3](https://www.rizonesoft.com/downloads/notepad3/)
 - [SublimeText](https://www.sublimetext.com/)
 - [Vim](https://www.vim.org/) and [Neovim](https://neovim.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
